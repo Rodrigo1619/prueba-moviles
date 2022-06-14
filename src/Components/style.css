@@ -5,7 +5,7 @@
     font-family: 'Roboto', 'sans-serif';
 }
 body{
-    background-color: #FCEEC8;
+    background-color: #7882A4;
 }
 .container{
     width: 90%;
@@ -23,7 +23,7 @@ body{
 }
 .card{
     width: 200px;
-    background-color: #9EDEF9;
+    background-color: #F2F2F2;
     border-radius: 1rem;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
     padding: 0 1.5rem;
